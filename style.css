@@ -50,3 +50,15 @@ h2{
     color: crimson;
 }
 
+.albuns{
+    font-family: 'Roboto', sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     color: #333;
+}
+
+.albuns strong{
+    font-weight: 700;
+    color: crimson;
+}
+
