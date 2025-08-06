@@ -31,3 +31,22 @@ h3 strong{
      color: crimson;
 }
 
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #111;
+}
+
+.membros{
+     font-family: 'Roboto', sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     color: #333;
+}
+
+.membros strong{
+    font-weight: 700;
+    color: crimson;
+}
+
