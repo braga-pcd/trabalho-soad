@@ -74,3 +74,12 @@ img{
     margin: 20px 0;
     border-radius: 5px;
 }
+
+ul ::marker{
+    list-style-type: square;
+    color: crimson;
+}
+
+ol ::marker{
+    color: crimson;
+}
