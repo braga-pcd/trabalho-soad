@@ -93,3 +93,7 @@ ol ::marker{
       background-color: #ffffff; 
       box-shadow: 3px 3px 10px #919191;
 }
+
+body{
+  background-color: #d8d7d7;
+}
